@@ -958,8 +958,15 @@ const projects = [
         "description":"Zomato Landing Page is a clone of the zomato website. It is built using HTML, CSS and JavaScript. It is a responsive website that can be viewed on any device.",
         "github-link":"https://github.com/TusharKesarwani/Front-End-Projects/tree/main/Projects/Zomato-Landing-Page",
         "project-link":"Projects/Zomato-Landing-Page/index.html"
+    },
+    {
+        "title":"Accordion Component",
+        "tags":["HTML","CSS"],
+        "img":"img/projects/accordion.png",
+        "description":"Accordion component is a UI (User Interface) element that allows you to present a collapsible and expandable set of items. It typically consists of multiple sections or panels, where each panel contains a header and a content section. The header serves as a clickable element that triggers the opening or closing of the associated content section. ",
+        "github-link":"https://github.com/TusharKesarwani/Front-End-Projects/tree/main/Projects/Accordion",
+        "project-link":"Projects/Accordion/index.html"
     }
-    
 ]
 
 export default projects;
